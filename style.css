@@ -2580,7 +2580,7 @@ data-styled.g40[id="Position__Relative-rui__sc-nh2ik7-3"] {
     -ms-letter-spacing: -0.0375rem;
     letter-spacing: -0.0375rem;
     font-size: clamp(2rem, 1.6rem + 2vw, 2.5rem);
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
 }
 
 .custom-dfMyAW {
@@ -3607,7 +3607,7 @@ data-styled.g108[id="Grid-rui__sc-11lbuez-0"] {
 .eAFepp {
     display: -webkit-box;
     -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
+    /* -webkit-box-orient: vertical; */
     /* overflow: hidden; */
     /* overflow-wrap: break-word; */
 }
@@ -5111,7 +5111,6 @@ data-styled.g509[id="sc-60d857bf-1"] {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     margin-right: auto;
-    margin-left: calc(-1 * var(--rui-space-s16));
     margin-top: var(--rui-space-s16);
 }
 
@@ -5468,7 +5467,7 @@ data-styled.g526[id="sc-b17ee1af-0"] {
 
 .bdsGII {
     font-family: Inter;
-    font-size: 48px;
+    font-size:2.5rem;
     font-weight: 600;
     line-height: 54px;
     letter-spacing: -0.4000000059604645px;
@@ -6895,7 +6894,7 @@ data-styled.g725[id="sc-4baf7d1c-1"] {
     color: #191c1f;
     max-width: 100%;
     white-space: pre-wrap;
-    word-break: break-word;
+    /* word-break: break-word; */
 }
 
 
