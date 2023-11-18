@@ -5,6 +5,37 @@
     font: inherit;
 }
 
+/*            ------    */
+.new-section{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.image-container {
+    margin-bottom: 20px;
+    max-width: 300px; 
+}
+
+/* Allow text to wrap within the same line */
+.image-container h{
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 1.375rem;
+}
+.image-container p {
+    word-wrap: break-word;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 1.375rem;
+    color: #555; /* Medium grey color */
+}
+
+
+
+/* .......... */
+
+
 
 /*!sc*/
 
